@@ -1,0 +1,74 @@
+.header {
+  height: 100px;
+  border-bottom: 2px solid black;
+  width: 100%;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 80%;
+  width: 75px;
+  border: 2px solid black;
+  border-radius: 12px;
+  display: flex;
+  justify-content: center;
+}
+.menu {
+  height: 80%;
+  width: 700px;
+  display: flex;
+  justify-content: space-around;
+  margin: 0px 0px 0px auto;
+}
+.menu button {
+  border-radius: 12px;
+  height: 75%;
+  margin: auto;
+  width: 18%;
+  border: 2px solid rgba(0, 0, 0, 0);
+  background-color: rgba(0, 0, 0, 0);
+}
+.ligne1 {
+  height: 500px;
+  border: 2px solid black;
+  margin: 40px auto;
+  border-radius: 12px;
+  box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
+  display: flex;
+  gap: 5%;
+  padding: 10px;
+}
+.txtl1 {
+  height: 95%;
+  width: 60%;
+  border: 2px dashed red;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.imgl1 {
+  height: 95%;
+  width: 30%;
+  border-radius: 12px;
+}
+#titre {
+  font-size: 3rem;
+  font-weight: bold;
+}
+#b1{
+    border-radius: 12px;
+    height: 30px;
+    background-color: rgba(77, 163, 255, 0.632);
+    border: 2px solid rgba(0, 0, 0, 0);
+}
+.imgl1 img{
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 12px;
+}
+#b2{
+    
+}
+#b3{
+
+}
